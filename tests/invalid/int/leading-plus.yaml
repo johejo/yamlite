@@ -1,0 +1,2 @@
+# reason: only optional leading `-` is allowed; `+` is not
+"value": +1

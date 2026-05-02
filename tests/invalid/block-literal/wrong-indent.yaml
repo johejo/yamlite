@@ -1,0 +1,3 @@
+# reason: block literal content must be at parent-indent + 2; here it is only +1
+"description": |
+ line 1

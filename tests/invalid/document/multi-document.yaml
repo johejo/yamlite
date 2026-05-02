@@ -1,0 +1,4 @@
+# reason: multi-document YAML (--- / ...) is not supported
+"a": 1
+---
+"b": 2

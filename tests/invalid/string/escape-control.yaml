@@ -1,0 +1,2 @@
+# reason: \uXXXX decoding to a control char (here NUL) is forbidden
+"value": "\u0000"

@@ -1,0 +1,2 @@
+# reason: explicit tags (!!str etc.) are not supported
+"x": !!str "value"

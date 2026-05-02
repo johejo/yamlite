@@ -1,0 +1,3 @@
+# reason: indent must be exactly 2 spaces per level
+"server":
+   "port": 8080

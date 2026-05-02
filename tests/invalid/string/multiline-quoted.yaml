@@ -1,0 +1,3 @@
+# reason: quoted strings are single-line; use \n for newlines
+"value": "line 1
+line 2"

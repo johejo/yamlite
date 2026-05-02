@@ -1,0 +1,2 @@
+# reason: leading zeros are not allowed (except for `0` itself)
+"value": 007

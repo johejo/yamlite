@@ -1,0 +1,2 @@
+# reason: double-quoted strings must escape backslashes; bare \ is not allowed
+"path": "C:\Users"

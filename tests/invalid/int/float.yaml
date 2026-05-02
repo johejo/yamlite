@@ -1,0 +1,2 @@
+# reason: floats are not coerced to string; they are an error
+"value": 1.5

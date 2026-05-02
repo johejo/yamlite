@@ -1,0 +1,3 @@
+# reason: explicit indent indicator (|2) is not supported
+"description": |2
+  line 1

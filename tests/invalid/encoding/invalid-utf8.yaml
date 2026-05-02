@@ -1,0 +1,2 @@
+# reason: input must be valid UTF-8 (lone 0xC3 byte)
+"value": "Ã"

@@ -1,0 +1,3 @@
+# reason: the document root must be a block mapping; top-level sequence is not allowed
+- "a"
+- "b"

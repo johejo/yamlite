@@ -1,0 +1,2 @@
+# reason: aliases (*name) are not supported
+"x": *a

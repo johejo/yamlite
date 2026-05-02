@@ -1,0 +1,2 @@
+# reason: lone high surrogate without a low surrogate is invalid
+"value": "\uD800"

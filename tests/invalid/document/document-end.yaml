@@ -1,0 +1,3 @@
+# reason: document end marker (...) is not supported
+"a": 1
+...

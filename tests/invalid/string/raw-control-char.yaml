@@ -1,0 +1,2 @@
+# reason: raw control characters (here: literal TAB) are forbidden inside strings; use \t
+"value": "a	b"

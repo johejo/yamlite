@@ -1,0 +1,2 @@
+# reason: flow style sequences are not supported
+"value": [1, 2, 3]

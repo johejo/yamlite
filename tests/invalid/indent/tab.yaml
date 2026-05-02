@@ -1,0 +1,3 @@
+# reason: tabs are not allowed in indentation
+"server":
+	"port": 8080

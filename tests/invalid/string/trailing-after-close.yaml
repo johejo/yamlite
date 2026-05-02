@@ -1,0 +1,2 @@
+# reason: extra content after a closing quote is an error
+"value": "a" garbage

@@ -1,0 +1,3 @@
+# reason: duplicate keys in the same mapping are an error
+"name": "alice"
+"name": "bob"

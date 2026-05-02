@@ -1,0 +1,2 @@
+# reason: string values must be quoted; bare identifiers are not allowed
+"name": alice

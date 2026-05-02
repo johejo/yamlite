@@ -1,0 +1,3 @@
+# reason: empty mapping value is an error; null must be written explicitly
+"a":
+"b": 1

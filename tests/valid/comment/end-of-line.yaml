@@ -1,0 +1,3 @@
+# top-level comment
+"name": "alice"  # inline comment
+"port": 8080

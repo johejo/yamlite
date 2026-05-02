@@ -1,0 +1,4 @@
+# reason: `-` must be indented one level under its parent key
+"items":
+- "a"
+- "b"

@@ -1,0 +1,2 @@
+# reason: anchors (&name) are not supported
+"x": &a "value"

@@ -1,0 +1,2 @@
+# reason: only decimal integers are supported; 0x prefix is not allowed
+"value": 0xff
