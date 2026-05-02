@@ -1,0 +1,11 @@
+.{
+    .name = .yamlite,
+    .version = "0.0.0",
+    .fingerprint = 0x6ebb4b47d578b59,
+    .minimum_zig_version = "0.16.0",
+    .paths = .{
+        "build.zig",
+        "build.zig.zon",
+        "yamlite.zig",
+    },
+}
