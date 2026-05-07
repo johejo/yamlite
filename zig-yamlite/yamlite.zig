@@ -114,7 +114,9 @@ fn runInvalidCase(
     const yaml_bytes = try dir.readFileAlloc(io, "invalid/" ++ name ++ ".yaml", allocator, max_corpus_bytes);
     defer allocator.free(yaml_bytes);
 
-    var parsed = parseFromSlice(allocator, yaml_bytes) catch return;
+    var parsed = parseFromSlice(allocator, yaml_bytes) catch |err| switch (err) {
+        error.OutOfMemory, error.NotImplemented => return err,
+    };
     defer parsed.deinit();
     return error.ExpectedParseError;
 }
